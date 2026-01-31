@@ -1,5 +1,5 @@
-# Internship
-Customer Segmentation
+# Customer Segmentation
+
 Internship Data science Task no 03
 
 # INTERNSHIP PROJECTS
